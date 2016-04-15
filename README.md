@@ -1,7 +1,7 @@
 # hello-world
-My first repository
-
 
 Hello everyone
+
+My first repository
 
 Hoping to use Github at my best!
